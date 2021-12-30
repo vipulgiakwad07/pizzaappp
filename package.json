@@ -46,9 +46,7 @@
     "unix": "^0.0.0",
     "uuid": "^8.3.2"
   },
-  "engines": {
-    "node": "^14.0.0"
-  },
+  
   "devDependencies": {
     "laravel-mix": "^5.0.4",
     "nodemon": "^2.0.4",
